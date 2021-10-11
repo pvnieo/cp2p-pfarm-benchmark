@@ -1,4 +1,4 @@
-# Part To Part Shape Matching Benchmark
+# CP2P & PFARM Partial Shape Matching Benchmarks
 Benchmark for non-rigid part-to-part shape matching
 
 Coming soon!
