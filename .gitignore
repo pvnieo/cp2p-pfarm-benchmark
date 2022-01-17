@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+cp2p/shapes/*
+cp2p/maps/*
+cp2p/splits/*
+pfarm/shapes/*
+pfarm/maps/*
+shrec16/*
