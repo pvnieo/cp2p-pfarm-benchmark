@@ -14,6 +14,9 @@ The overlap between the source and target shapes varies from **10%** to **90%** 
 ![pfarm](pfarm/pfarm.png)
 The objective of **PFARM** is to test the robustness of partial shape matching methods to significantly varying mesh connectivity and sampling. **PFARM** is created using the SHREC’19 dataset, and it comprises of 25 test pairs resulting from 26 human shapes (one null shape). The shapes have **significantly different meshing, vertex density, undergo varied rigid and non-rigid deformations and have significant partiality**.
 
+## SHREC16' Partial Matching Benchmark
+Due to popular demand, we also provide in this repository the SHREC16' partial benchmark test set (both shapes and ground truth maps). Please note that we provide it only for convenience, and that all credits should go to the original authors. The test set can be downloaded from the [benchmark website](https://www.dais.unive.it/~shrec2016/).
+
 
 ## Citation
 Please cite these benchmarks as:
